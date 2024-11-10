@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "echo 'No build step required'"
+  }
+}
+{
+  "scripts": {
+    "build": "vue-cli-service build"
+  }
+}
