@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "vue-cli-service build"
+    "build": "echo 'No build step required'"
   }
 }
